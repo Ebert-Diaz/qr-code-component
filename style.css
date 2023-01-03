@@ -16,8 +16,7 @@ body {
 main {
 	height: 100vh;
 	display: flex;
-	
-	/* Cambia las siguientes lineas para experimentar👇*/
+
 	align-items: center;
 	justify-content: center;
 }
